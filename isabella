@@ -1,0 +1,25 @@
+<html>
+<head>
+    <style>
+        .center {
+          text-align: center;
+          color: rgb(255, 255, 255);
+   font-family:Arial, Helvetica, sans-serif;
+        }
+        </style>
+        </head>
+        <body>
+    <body style="background-color:rgba(0, 92, 5, 0.814);"></body>
+<title>Página da Isabella</title>
+</head>
+<body>
+<h1 class="center">Oi, eu sou a Isabella. Muito prazer!</h1>
+<hr />
+<p class="center">Possuo 24 anos e no momento sou estudante de ADS na Faculdade Municipal de Palhoça.
+    Saí do ensino médio em 2016 e em 2017 entrei na faculdade de Biblioteconomia na UDESC, mas após 1 ano decidi largar para cursar o que eu sempre quis: Publicidade e Propaganda.
+Fiz a faculdade de Publicidade e Propaganda de 2018 - 2021 e foi uma das coisas mais incríveis que fiz na vida. Hoje trabalho na área e sou apaixonada pelo meu trabalho.
+Comecei a cursar ADS em 2024 porque vi ali uma oportunidade de aprimorar meu trabalho como publicitária.
+<br /><br />Obrigada por ler até aqui.<br /><br />
+Até a próxima.
+</body>
+</html>
